@@ -1,1 +1,1 @@
-This is the part of my project getting order from the Rest API.
+This is the part of my project getting order from the Rest API. It works as a server and written with MongoDb and Node.js.
